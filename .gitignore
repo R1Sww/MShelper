@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+build/
+dist/
+
+# Local settings and usage history
+data/
